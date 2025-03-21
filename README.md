@@ -26,6 +26,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 ## STEPS
 - azd aut login
+- Start the Docker
 - azd up
 ## Trademarks
 
